@@ -1,9 +1,9 @@
 # COS 201 - Computer Programming I
 
 ## Student Information
-- Name: Enter your full name
-- Matriculation Number: Enter your matriculation number
-- Programme: Enter your programme (CSC/CYB/INS/SEN/ICH)
+- Name: Obiako-Obioha Zuriel
+- Matriculation Number: 25/16671
+- Programme: CYB
 - Course: COS 201
 
 ## Week 1: Introduction to Programming and Problem-Solving
